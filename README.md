@@ -1,0 +1,2 @@
+# jax_numerical_optimization_learn
+学习jax的常规数值优化方法
