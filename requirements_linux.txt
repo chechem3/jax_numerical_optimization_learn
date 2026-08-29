@@ -1,0 +1,3 @@
+jax[cuda13]
+optax
+plotly
